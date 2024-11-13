@@ -1,2 +1,2 @@
-# Drum-N-Code
-Repository for test task to Drum`N`Code
+# Python-Playwright tests framework
+Repository for tests by Playwright
